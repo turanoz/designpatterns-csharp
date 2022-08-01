@@ -1,0 +1,16 @@
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.exe
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.deps.json
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.json
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.runtimeconfig.dev.json
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.dll
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\bin\Debug\net5.0\Proxy.pdb
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.csproj.AssemblyReference.cache
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfoInputs.cache
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.AssemblyInfo.cs
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.dll
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\refint\Proxy.dll
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.pdb
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\Proxy.genruntimeconfig.cache
+C:\Users\Turan\source\repos\DesignPatterns\Proxy\obj\Debug\net5.0\ref\Proxy.dll
